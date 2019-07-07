@@ -1,0 +1,7 @@
+网络udp
+  通过ip地址来相互传输 192.168.1.1
+  查看网卡：ifconfig ipconfig(Windows下使用)
+  关闭网卡：ifconfig enp3s0 down/up
+  ipv4: ip version 4 ---xxxx.xxxx.xxxx.xxxx 256**4
+  ipv6: ip version 6 ---
+网络tcp
