@@ -1,0 +1,19 @@
+基本命令：
+1.使用pipenv来安装软件
+  pipenv install 安装虚拟环境
+  pipenv shell 启动
+  exit 退出
+  
+ 2.pipenv install flask 安装
+ 3.pipenv uninstall flask 卸载
+ 4.pipenv graph 打印出安装内容
+ 
+ 
+ 开发者工具：
+  pycharm（推荐）
+  mysql （xampp）
+  Navicat （数据库可视化管理工具）
+  
+  
+
+  
